@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/reduxopedia/static/js/main.f151f620.js",
+    "index.html": "/reduxopedia/index.html",
+    "main.f151f620.js.map": "/reduxopedia/static/js/main.f151f620.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f151f620.js"
+  ]
+}
